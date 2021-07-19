@@ -5,6 +5,8 @@ math: true
 date: 2019-01-03
 categories: DeepLearning
 permalink: deeplearning/and_gate_with_logistic_regression/
+comments: true
+
 ---
 
 이 포스트에서는 Logistic Regression 모델로 And Gate를 만들어본다.

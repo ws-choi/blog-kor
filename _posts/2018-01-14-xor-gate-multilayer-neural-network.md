@@ -5,6 +5,7 @@ date: 2019-01-03
 math: true
 categories: DeepLearning
 permalink: deeplearning//xor-gate-multilayer-neural-network/
+comments: true
 ---
 
 본 포스트에서는 NumPy만을 이용하여 Multi-Layer Neural Network 기반 Learned XOR Gate를 만들어 볼 것이다.

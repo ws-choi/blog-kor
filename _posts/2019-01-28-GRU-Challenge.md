@@ -5,6 +5,8 @@ math: true
 date: 2019-01-28
 categories: NLP DeepLearning
 permalink: nlp/deeplearning/GRU-Challenge/
+comments: true
+
 ---
 
 이번 포스트에서는 GRU(Gated Recurrent Unit)에 대해 알아본다. GRU란 [1]에서 소개된 개념으로 Long Short-Term Memory Cell과 같이 장기적 기억이 가능하면서도 계산량은 절감시킨 RNN cell이다. RNN과 LSTM에 대한 내용은 이전 포스트 ([RNN](https://ws-choi.github.io/nlp/deeplearning/Vanilla-RNN-%EC%8B%A4%EC%8A%B5/), [LSTM](https://ws-choi.github.io/nlp/deeplearning/Long-Short-Term-Memory-Network/))를 참조할 것!

@@ -5,11 +5,9 @@ math: true
 date: 2019-01-17
 categories: NLP DeepLearning
 permalink: nlp/deeplearning/Bidirectional-RNN-and-LSTM/
+comments: true
+
 ---
-
-> 사이트 이전 후 링크가 박살이 나있는걸 2년만에 알았습니다. 송구합니다. 현재 수정 중이고, 이 페이지는 다 수정되었습니다. 죄송합니다.
-
-> Google Analytics 설정도 잘못해놔서 아무도 제 블로그를 안보시는 줄알았습니다 ^^; 몰랐습니다. 죄송합니다 흑흑
 
 이번 포스트에서는 Bidirectional Recurrent Neural Network (Bidirectional-RNN) 와 Bidirectional Long Short-Term Memory Network (Bidirectional LSTM)에 대해 알아보고 이를 PyTorch를 이용하여 직접 구현해본다.
 

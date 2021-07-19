@@ -5,6 +5,8 @@ math: true
 date: 2019-01-31
 categories: NLP DeepLearning PaperReview
 permalink: nlp/deeplearning/paperreview/Contextualized-Word-Embedding/
+comments: true
+
 ---
 
 본 포스트에서는 Contextual Word Embedding 개념에 대해 설명한다. ELMo[1], Bert[2]등의 Contextual Word Embedding 기술들의 디테일한 비교는 다음 포스트에서 다룰 예정이며, 본 포스트에서는 전통적인 Word Embedding 기법인 Word2Vec과의 비교를 통해 Contextualized Word Embedding의 개념에 대해서만 설명한다.

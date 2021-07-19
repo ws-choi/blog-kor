@@ -5,6 +5,8 @@ math: true
 date: 2018-12-31
 categories: DeepLearning
 permalink: deeplearning/Neural-Network-Basic/
+comments: true
+
 ---
 
 본 포스트에서는 신경망의 기초를 다룬다. 먼저 Logistic Regression을 다룰 것이고, 이를 학습하기 위한 Gradient Descent 방법을 소개할 것이다. 그리고 이를 확장하여 Multi-layer Neural Network의 parameter를 tuning하기 위한 Backpropagation 알고리즘을 소개할 것이다.
