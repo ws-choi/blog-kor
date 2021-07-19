@@ -4,7 +4,7 @@ layout: post
 math: true
 date: 2019-01-03
 categories: NLP DeepLearning
-permalink: nlp/deeplearning/Vanilla-RNN-실습
+permalink: nlp/deeplearning/Vanilla-RNN-실습/
 ---
 
 이번 포스트에서는 numpy만을 이용하여 RNN(Recurrent Neural Network)을 구현하고 간단한 텍스트 데이터를 이용하여 단어를 모델링 해보는 실험을 한다. 본 포스트는 [Andrej Karpathy의 블로그](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)와 [freepsw님의 블로그](https://m.blog.naver.com/PostView.nhn?blogId=freepsw&logNo=220941652066&proxyReferer=https%3A%2F%2Fwww.google.com%2F) 내용을 참조하여 만들었다.

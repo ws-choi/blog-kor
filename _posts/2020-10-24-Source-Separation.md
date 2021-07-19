@@ -4,7 +4,7 @@ layout: post
 math: true
 date: 2020-10-24
 categories: DeepLearning SourceSeparation
-permalink: deeplearning/sourceseparation/Source-Separation
+permalink: deeplearning/sourceseparation/Source-Separation/
 ---
 
 이번 포스트에서는 딥러닝 기반 음원분리 기법을 다룬다.

@@ -3,7 +3,7 @@ title: "PyTorch에서의 Bidirectional RNN에 대한 정확한 이해"
 layout: post
 math: true
 date: 2020-11-28
-permalink: bidirectional-rnn-in-pytorch
+permalink: bidirectional-rnn-in-pytorch/
 ---
 
 > 본 포스트는 [Understanding Bidirectional RNN in PyTorch- Ceshine Lee](https://towardsdatascience.com/understanding-bidirectional-rnn-in-pytorch-5bd25a5dd66)를 한국어로 번역한 자료입니다.

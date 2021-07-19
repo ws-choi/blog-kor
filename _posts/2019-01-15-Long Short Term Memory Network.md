@@ -4,7 +4,7 @@ layout: post
 math: true
 date: 2019-01-15
 categories: NLP DeepLearning
-permalink: nlp/deeplearning/Long-Short-Term-Memory-Network
+permalink: nlp/deeplearning/Long-Short-Term-Memory-Network/
 ---
 
 이번 포스트에서는 numpy만을 이용하여 Long Shor Term Memory (LSTM)를 구현하고 간단한 텍스트 데이터를 이용하여 문장을 모델링해보는  실험을 한다.

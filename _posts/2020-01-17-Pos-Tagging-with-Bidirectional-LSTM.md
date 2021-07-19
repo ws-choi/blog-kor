@@ -4,7 +4,7 @@ layout: post
 math: true
 date: 2019-01-17
 categories: NLP DeepLearning
-permalink: nlp/deeplearning/Pos-Tagging-with-Bidirectional-LSTM
+permalink: nlp/deeplearning/Pos-Tagging-with-Bidirectional-LSTM/
 ---
 
 이번 포스트에서는 Bidirectional LSTM Network를 이용하여 Part-of-Speech Tagging (PoS Tagging)을 실습해본다.

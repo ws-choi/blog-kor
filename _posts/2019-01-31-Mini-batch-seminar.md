@@ -4,7 +4,7 @@ layout: post
 math: true
 date: 2019-02-19
 categories: Seminar Tutorial MNIST PyTorch MLP
-permalink: seminar/tutorial/mnist/pytorch/mlp/Mini-batch-seminar
+permalink: seminar/tutorial/mnist/pytorch/mlp/Mini-batch-seminar/
 ---
 
 이번 포스트에서는 PyTorch 환경에서 mini-batch를 구성하는 방법에 대해 알아보며, 이를 위해 간단한 문제(MNIST)를 훈련 및 추론해보는 실습을 진행합니다.  

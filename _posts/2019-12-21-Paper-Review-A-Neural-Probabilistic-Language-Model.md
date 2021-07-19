@@ -4,7 +4,7 @@ layout: post
 math: true
 date: 2018-12-21
 categories: NLP DeepLearning PaperReview
-permalink: nlp/deeplearning/paperreview/Paper-Review-A-Neural-Probabilistic-Language-Model
+permalink: nlp/deeplearning/paperreview/Paper-Review-A-Neural-Probabilistic-Language-Model/
 ---
 
 최근 작성한 [포스트]({{site.baseurl}}/nlp/deeplearning/paperreview/Recent-Trends-in-Deep-Learning-Based-Natural-Language/)에서 "Distributed Representation은 왜 필요한가? (중략) 전통적인 NLP 기법은 차원의 저주 문제가 발생한다고 한다. [7]번 논문에서 설명되어있다는데... "라고 언급한 적이 있다. 본포스트에서는 문제의 [7]번 논문

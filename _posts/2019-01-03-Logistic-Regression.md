@@ -4,7 +4,7 @@ layout: post
 math: true
 date: 2019-01-03
 categories: DeepLearning
-permalink: deeplearning/Logistic-Regression
+permalink: deeplearning/Logistic-Regression/
 ---
 
 Wikipedia에서 찾은 Logistic Regression의 정의는 다음과 같다.

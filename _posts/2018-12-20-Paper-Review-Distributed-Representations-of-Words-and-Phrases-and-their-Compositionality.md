@@ -4,7 +4,7 @@ layout: post
 math: true
 date: 2018-12-20
 categories: NLP DeepLearning PaperReview
-permalink: nlp/deeplearning/paperreview/Paper-Review-Distributed-Representations-of-Words-and-Phrases-and-their-Compositionality
+permalink: nlp/deeplearning/paperreview/Paper-Review-Distributed-Representations-of-Words-and-Phrases-and-their-Compositionality/
 ---
 
 ## Introduction: 빈칸 추론 문제

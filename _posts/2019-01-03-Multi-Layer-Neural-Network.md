@@ -4,7 +4,7 @@ layout: post
 math: true
 date: 2019-01-03
 categories: DeepLearning
-permalink: deeplearning/Multi-Layer-Neural-Network
+permalink: deeplearning/Multi-Layer-Neural-Network/
 ---
 
 
