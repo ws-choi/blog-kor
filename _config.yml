@@ -2,8 +2,8 @@
 title:               Woosung Choi
 tagline:             'ws-choi'
 description:         Woosung Choi's blog
-url:                 https://ws-choi.github.io/blog-kor
-baseurl:             ''
+url:                 https://ws-choi.github.io/
+baseurl:             'blog-kor'
 paginate:            5
 permalink:           pretty
 
