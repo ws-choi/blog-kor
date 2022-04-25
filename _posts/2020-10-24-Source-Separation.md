@@ -16,7 +16,11 @@ comments: true
 
 생각보다 질의응답한 내용이 많아서 정리할 겸 튜토리얼 포스트를 적는다.
 
-## Source Separation
+{:class="table-of-content"}
+* TOC
+{:toc}
+
+## Task Definition: Source Separation
 
 음원분리 (Source Separation) 이란 여러 음원이 섞인 음성신호 (음악파일 등)에서
 원하는 소리만 분리하고 싶을 때 사용할 수 있는 기법이다.
@@ -24,7 +28,7 @@ comments: true
 아래는 이번 ISMIR2020에서 발표할 때 사용하였던 [U-Nets with TFC-TDFs (large)](https://github.com/ws-choi/ISMIR2020_U_Nets_SVS) 모델을 사용하여
 "폴킴 - 허전해" 곡의 보컬을 분리한 결과이다.
 
-## Example: 폴킴의 허전해 음원분리 예제
+### Example: 폴킴의 허전해 음원분리 예제
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DuOvWpckoVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -56,7 +60,7 @@ comments: true
 
 ---
 
-## Spectrogram
+## Spectrogram: 컴퓨터에게 소리의 높낮음 가르치기
 
 그런데 또 한가지 걸림돌이 되는 것이 있다.
 
